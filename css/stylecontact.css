@@ -114,7 +114,7 @@ table{
     font-weight: bold!important;
 }
 img{
-    height: 150px!important;
+    height: 190px!important;
     width: 100%!important;
     -webkit-filter: grayscale(100%);
     filter: grayscale(50%);
@@ -130,7 +130,7 @@ img{
 }
 a{
     color:gray!important;
-    font-size: 20px
+    font-size: 15px
 }
 i{
     font-size: 17px!important;
