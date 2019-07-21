@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(245, 2, 2)!important
+    background-color:white!important
 }
     
     
@@ -21,9 +21,16 @@ p{
     letter-spacing: 2px!important;
     font-weight: bold!important;
     justify-content: left!important;
+    color:white!important;
+}
+nav ul a{
+    color:black!important;
+}
+nav .brand-logo.right{
     color:black!important;
 }
 h2{
+
     color:rgb(20, 19, 19)!important;
     font-size: 15px!important;
     font-family: 'Ramabhadra', sans-serif;
@@ -36,7 +43,7 @@ h2{
 }
 .card, .card-content{
     background-color: black!important;
-    color:white!important;
+    color:rgb(255, 255, 255)!important;
     /* font-family: 'Share Tech Mono', monospace; */
     font-family: 'Ubuntu Mono', monospace; 
     width: 140%!important;

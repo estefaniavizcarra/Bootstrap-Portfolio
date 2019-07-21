@@ -23,7 +23,7 @@ p{
 
     /* background-color: rgb(248, 241, 241)!important; */
 
-    height: 400px!important;
+    height: 500px!important;
 
 
 }
@@ -39,14 +39,14 @@ p{
     text-align: right!important;
 }
 .primertitulo{
-    color:#121212!important;
+    color:black!important;
 
 
     text-align: right!important;
 
 }
 .tercer{
-    background-color: rgb(19, 18, 18)!important;
+    background-color: #443f3f!important;
     height:400px!important;
 
     width: 50%!important;
@@ -54,7 +54,7 @@ p{
     text-align: right!important;
 }
 .tercerd{
-    background-color:rgb(24, 23, 23)!important;
+    background-color:black!important;
     /* background: #ED213A;  /* fallback for old browsers */
 /* background: -webkit-linear-gradient(to right, #93291E, #ED213A);  Chrome 10-25, Safari 5.1-6 */
 /* background: linear-gradient(to right, #93291E, #ED213A); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
@@ -65,21 +65,20 @@ p{
 
 }
 .cuartod{
-    background-color:rgb(218, 13, 13)!important;
+    background-color:black!important;
     height:400px!important;
-
     width: 50%!important;
 
 }
 .quintod{
-    background-color: black!important;
+    background-color: rgb(0, 0, 0)!important;
     height:400px!important;
 
     width: 50%!important;
 
 }
 .sextod{
-    background-color: rgb(238, 237, 237)!important;
+    background-color:rgb(0, 0, 0)!important;
     height:400px!important;
 
     width: 50%!important;
@@ -129,9 +128,13 @@ img{
     text-align: center!important;
 }
 a{
-    color:gray!important;
+    color:rgb(199, 4, 248)!important;
     font-size: 15px
 }
 i{
     font-size: 17px!important;
+}
+.card-content{
+    align-items: left;
+    font-size: 10px
 }
