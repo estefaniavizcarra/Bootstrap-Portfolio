@@ -1,0 +1,137 @@
+body{
+    background-color: black!important;
+}
+nav{
+    background-color: transparent!important;
+}
+p{
+    color:white!important;
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 10!important;
+    letter-spacing: 2px!important;
+
+
+}
+.primer{
+    background-color: rgb(248, 241, 241)!important;
+
+    height: 400px!important;
+
+}
+.primerd{
+    color:#f8f7f7!important;
+
+    /* background-color: rgb(248, 241, 241)!important; */
+
+    height: 400px!important;
+
+
+}
+.container{
+    color:White;
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 10!important;
+
+
+}
+.primertexto{
+    color:#121212!important;
+    text-align: right!important;
+}
+.primertitulo{
+    color:#121212!important;
+
+
+    text-align: right!important;
+
+}
+.tercer{
+    background-color: rgb(19, 18, 18)!important;
+    height:400px!important;
+
+    width: 50%!important;
+    align-self: right!important;
+    text-align: right!important;
+}
+.tercerd{
+    background-color:rgb(24, 23, 23)!important;
+    /* background: #ED213A;  /* fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #93291E, #ED213A);  Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to right, #93291E, #ED213A); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+
+    height:400px!important;
+
+    width: 50%!important;
+
+}
+.cuartod{
+    background-color:rgb(218, 13, 13)!important;
+    height:400px!important;
+
+    width: 50%!important;
+
+}
+.quintod{
+    background-color: black!important;
+    height:400px!important;
+
+    width: 50%!important;
+
+}
+.sextod{
+    background-color: rgb(238, 237, 237)!important;
+    height:400px!important;
+
+    width: 50%!important;
+
+}
+h1{
+    color:white!important;
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 30px!important;
+    letter-spacing: 2px!important;
+    font-weight: bold!important;
+
+
+}
+h2{
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 30px!important;
+
+
+    
+}
+table{
+    color:white;
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 8px!important;
+    text-align: center!important;
+    letter-spacing: 2px!important;
+
+
+}
+.principio{
+    font-weight: bold!important;
+}
+img{
+    height: 150px!important;
+    width: 100%!important;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(50%);
+    padding: .2em!important;
+    }
+.card-title{
+    color:black!important;
+    font-family: 'Ubuntu Mono', monospace; 
+    font-size: 26px!important;
+    letter-spacing: 9px!important;
+    font-weight: bold!important;
+    text-align: center!important;
+}
+a{
+    color:gray!important;
+    font-size: 20px
+}
+i{
+    font-size: 17px!important;
+}

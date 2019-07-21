@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(245, 2, 2)!important
+}
+    
+    
+nav{
+    background-color: transparent!important;
+    font-family: 'Ubuntu Mono', monospace; 
+
+}
+section{
+    font-size: 40px!important;
+    font-family: 'Ubuntu Mono', monospace; 
+
+
+}
+p{
+    font-family: 'Ubuntu Mono', monospace; 
+    padding: 1em!important;
+    font-size: 14px!important;
+    letter-spacing: 2px!important;
+    font-weight: bold!important;
+    justify-content: left!important;
+    color:black!important;
+}
+h2{
+    color:rgb(20, 19, 19)!important;
+    font-size: 15px!important;
+    font-family: 'Ramabhadra', sans-serif;
+
+}
+.container{
+    display: flex; /* or inline-flex */
+    justify-content: center!important;
+    align-items: right!important;
+}
+.card, .card-content{
+    background-color: black!important;
+    color:white!important;
+    /* font-family: 'Share Tech Mono', monospace; */
+    font-family: 'Ubuntu Mono', monospace; 
+    width: 140%!important;
+
+
+    margin-right: 20px!important;
+}
+/* font-family: 'Londrina Outline', cursive;
+font-family: 'Ramabhadra', sans-serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Ubuntu Mono', monospace; */
+.botones{
+    background-color: rgb(37, 36, 36)!important;
+
+    color:white!important;
+    padding: .5em!important;
+    height: 39px!important;
+    letter-spacing: 2px!important;
+
+
+
+}
+
+.botonesDiv{
+    /* padding: 1em!important */
+
+}
+.textopersonal{
+    background-color:transparent!important;
+}
+.full{
+    background-color: black!important;
+
+}
+.card-content{
+    color:gray!important;
+}
